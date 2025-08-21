@@ -12,7 +12,7 @@ This is a Visual Studio Code extension pack that bundles the following extension
 
 ## Installation
 
-1. Install this extension pack from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/VSCode).
+1. Install this extension pack from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SahithBodla.leextension-bundle).
 2. Both LeExtension and LeExtensionTheme will be installed automatically.
 
 ## Included Extensions
