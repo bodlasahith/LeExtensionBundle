@@ -1,0 +1,33 @@
+# LeExtension Bundle
+
+This is a Visual Studio Code extension pack that bundles the following extensions:
+
+- **LeExtension**: Enhance your workflow with custom features and productivity tools.
+- **LeExtensionTheme**: A collection of beautiful color themes inspired by NBA teams.
+
+## Features
+
+- Installs both LeExtension and LeExtensionTheme with a single click
+- Provides a seamless experience with custom features and matching themes
+
+## Installation
+
+1. Install this extension pack from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/VSCode).
+2. Both LeExtension and LeExtensionTheme will be installed automatically.
+
+## Included Extensions
+
+- [LeExtension](https://marketplace.visualstudio.com/items?itemName=your-publisher-name.leextension)
+- [LeExtensionTheme](https://marketplace.visualstudio.com/items?itemName=your-publisher-name.leextensiontheme)
+
+## Usage
+
+After installing the pack, explore the features of LeExtension and switch between the included color themes via the Command Palette (`Ctrl+K Ctrl+T`).
+
+## Contributing
+
+Contributions are welcome! Please open issues or pull requests on the [GitHub repository](https://github.com/your-repo-url).
+
+## License
+
+MIT
