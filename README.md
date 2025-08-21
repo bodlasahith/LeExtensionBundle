@@ -17,8 +17,8 @@ This is a Visual Studio Code extension pack that bundles the following extension
 
 ## Included Extensions
 
-- [LeExtension](https://marketplace.visualstudio.com/items?itemName=your-publisher-name.leextension)
-- [LeExtensionTheme](https://marketplace.visualstudio.com/items?itemName=your-publisher-name.leextensiontheme)
+  [LeExtension on GitHub](https://github.com/bodlasahith/LeExtension)
+  [LeExtensionTheme on GitHub](https://github.com/bodlasahith/LeExtensionTheme)
 
 ## Usage
 
@@ -26,7 +26,7 @@ After installing the pack, explore the features of LeExtension and switch betwee
 
 ## Contributing
 
-Contributions are welcome! Please open issues or pull requests on the [GitHub repository](https://github.com/your-repo-url).
+Contributions are welcome! Please open issues or pull requests on the [GitHub repository](https://github.com/bodlasahith/LeExtensionBundle).
 
 ## License
 

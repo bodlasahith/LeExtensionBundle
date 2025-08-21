@@ -1,9 +1,13 @@
 {
 	"name": "leextension-bundle",
 	"displayName": "LeExtension Bundle",
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/bodlasahith/leextensionbundle.git"
+  },
 	"description": "A VS Code extension pack bundling LeExtension and LeExtensionTheme.",
 	"version": "1.0.0",
-	"publisher": "bodlasahith",
+	"publisher": "SahithBodla",
 	"engines": {
 		"vscode": ">=1.70.0"
 	},
