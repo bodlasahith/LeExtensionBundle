@@ -1,4 +1,6 @@
 [submodule "LeExtension"]
+	path = LeExtension
 	url = https://github.com/bodlasahith/LeExtension.git
 [submodule "LeExtensionTheme"]
-	url = https://github.com/bodlasahith/LeExtensionBundle.git
+	path = LeExtensionTheme
+	url = https://github.com/bodlasahith/LeExtensionTheme.git
